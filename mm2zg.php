@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Unicode & Zawgyi Combobox
-Plugin URI: http://www.saturngod.net
+Plugin URI: http://wordpress.org/extend/plugins/unicode-zawgyi-combobox/
 Description: Combobox for convert between unicode and zawgyi. javascript is written by solvewaresolution. If you add this plugin, combobox will show and user can change zawgyi or unicode 5.1 to see your website or blog.
 Version: 0.1
 Author: Saturngod
